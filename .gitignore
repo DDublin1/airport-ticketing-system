@@ -1,0 +1,39 @@
+# SQL Server
+*.mdf
+*.ldf
+*.ndf
+*.bak
+*.trn
+
+# SSMS
+*.ssms_suo
+*.ssms_user
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.~
+
+# Security
+*.key
+*.pem
+*.pfx
+*.p12
+
+# Credentials
+.env
+.env.local
+secrets.json
+appsettings.Production.json
